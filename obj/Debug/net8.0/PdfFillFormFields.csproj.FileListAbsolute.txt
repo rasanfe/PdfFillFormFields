@@ -1,0 +1,12 @@
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\bin\Debug\net8.0\PdfFillFormFields.deps.json
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\bin\Debug\net8.0\PdfFillFormFields.dll
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\bin\Debug\net8.0\PdfFillFormFields.pdb
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.csproj.AssemblyReference.cache
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.AssemblyInfoInputs.cache
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.AssemblyInfo.cs
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.csproj.CoreCompileInputs.cache
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.dll
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\refint\PdfFillFormFields.dll
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\PdfFillFormFields.pdb
+C:\proyecto pw2022\Blog\Net8\PdfFillFormFields\obj\Debug\net8.0\ref\PdfFillFormFields.dll
